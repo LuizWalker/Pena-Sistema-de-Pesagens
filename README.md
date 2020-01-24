@@ -59,4 +59,9 @@ Sensor de carga
 
 # Informações adicionais
 
+Luiz Walker Amaro
+luizwalkeramaro@gmail.com
+
+Guilherme Costa de Araújo
+guilhermegca167@gmail.com
 
