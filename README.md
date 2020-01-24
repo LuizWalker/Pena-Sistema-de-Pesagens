@@ -40,7 +40,7 @@ Para salvar os dados e serem exibidos na tela, basta preencher todos os campos r
 
 ## Erro de cadastro
 
-Se houver algum espaço em branco, os dados não serão salvos e aparece-rá a seguinte mendagemde erro:
+Se houver algum espaço em branco, os dados não serão salvos e aparecerá a seguinte mensagem de erro:
 
 ![erro](https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/mensagem%20de%20erro.png)
 
