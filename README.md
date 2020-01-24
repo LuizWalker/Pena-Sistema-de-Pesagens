@@ -38,7 +38,7 @@ Para salvar os dados e serem exibidos na tela, basta preencher todos os campos r
 
 ![cadastro](https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/cadastro.png)
 
-### Erro de cadastro
+## Erro de cadastro
 
 Se houver algum espaço em branco, os dados não serão salvos e aparece-rá a seguinte mendagemde erro:
 
