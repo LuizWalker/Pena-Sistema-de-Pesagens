@@ -18,7 +18,7 @@ Para utilizar este programa é bem simples! Vamos lá o manual.
 
 Com a proposta de ser simples e prático, é fácil se familiarizar com o programa: 
 
-!(interface)[]
+!(interface)[https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/Interface%20conex%C3%A3o.png]
 
 ## Fazendo cadastro
 
