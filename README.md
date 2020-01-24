@@ -12,19 +12,29 @@ Como exemplo, poderíamos citar as aplicações no ramo da industria alimentíci
 
 # Manual do programa
 
-Para utilizar este programa é bem simples! Vamos lá o manual.
+Para utilizar este programa é bem simples! Vamos ao manual.
 
 ## Interface do programa
 
-Com a proposta de ser simples e prático, é fácil se familiarizar com o programa: 
-
 ![interfaceConexao](https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/Interface%20conex%C3%A3o.png)
+
+Primeiramente, com o projeto aberto no Qt creator, deve-se conectar o Arduino a alguma porta USB do computador para que se possa transferir os dados do sensor e, em seguida, executar o programa no Qt creator. Caso não seja feito nesta ordem pode acarretar em erro ao compilar.
+
+Se tudo der certo, o programa irá reconhecer a porta em que o Arduino foi conectado, informando no campo "PORTA SERIAL" na aba comunicação serial.
 
 ![interfaceConectada](https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/Interface%20conex%C3%A3o%20conectada.png)
 
-## Fazendo cadastro
+Em seguida, deve-se selecionar no campo "VELOCIDADE DE TRANSFERÊNCIA" o valor de 57600 obrigatoriamente! Pois, o sensor de pressão conectado ao Arduino só funciona nesta velocidade. Pressione o botão conectar ou desconectar para estabeler a conexão.
+
+# Fazendo cadastro
+
+Com a proposta de ser simples e prático, é fácil se familiarizar com o cadastro de dados do programa:
 
 ![interface](https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/Interface.png)
+
+Ao pressionar o botão físico ou o da interface (Ativar a Balança) ocorrerá captura de dados da balança, os leds indicaram que a medida está sendo feita. Quando o led verde acender significa que a medida já foi feita, e a cancela libera passagem para o automóvel por alguns segundos e fecha novamente. O valor aparecerá em "Sensor de Peso (Kg)" e será escrito na caixa de texto da aba Registar Cargas em "PESO(KG)".
+
+Para salvar os dados e serem exibidos na tela, basta preencher todos os campos restantes (Descrição da carga e Empresa). Se houver algum espaço em branco, os dados não serão salvos e aparece-rá a seguinte mendagemde erro:
 
 ![erro](https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/mensagem%20de%20erro.png)
 
@@ -41,8 +51,4 @@ Com a proposta de ser simples e prático, é fácil se familiarizar com o progra
 
 # Informações adicionais
 
-
-os dados inseridos de nome da empresa podem ser até duas letra, abreviar o nome
-velocidade de transferência
-57600
 
