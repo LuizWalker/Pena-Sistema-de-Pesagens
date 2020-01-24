@@ -34,7 +34,11 @@ Com a proposta de ser simples e prático, é fácil se familiarizar com o cadast
 
 Ao pressionar o botão físico ou o da interface (Ativar a Balança) ocorrerá captura de dados da balança, os leds indicaram que a medida está sendo feita. Quando o led verde acender significa que a medida já foi feita, e a cancela libera passagem para o automóvel por alguns segundos e fecha novamente. O valor aparecerá em "Sensor de Peso (Kg)" e será escrito na caixa de texto da aba Registar Cargas em "PESO(KG)".
 
-Para salvar os dados e serem exibidos na tela, basta preencher todos os campos restantes (Descrição da carga e Empresa). Se houver algum espaço em branco, os dados não serão salvos e aparece-rá a seguinte mendagemde erro:
+Para salvar os dados e serem exibidos na tela, basta preencher todos os campos restantes (Descrição da carga e Empresa) e selecionar "Registrar" para exibir na tabela logo abaixo.
+
+![cadastro](https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/cadastro.png)
+
+Se houver algum espaço em branco, os dados não serão salvos e aparece-rá a seguinte mendagemde erro:
 
 ![erro](https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/mensagem%20de%20erro.png)
 
