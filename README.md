@@ -42,10 +42,9 @@ Para salvar os dados e serem exibidos na tela, basta preencher todos os campos r
 
 
 
-## Comunicação serial
+# Comunicação serial
 
-
-# Servidor
+## Comunicação Qt
 
 ![json](https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/Json's%20do%20QT.png)
 
