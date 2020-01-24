@@ -38,7 +38,10 @@ Para salvar os dados e serem exibidos na tela, basta preencher todos os campos r
 
 ![erro](https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/mensagem%20de%20erro.png)
 
-# Sensor de carga
+# Protótipo
+
+*Arduino
+*Sensor de carga
 
 
 
