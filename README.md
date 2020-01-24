@@ -40,8 +40,8 @@ Para salvar os dados e serem exibidos na tela, basta preencher todos os campos r
 
 # Protótipo
 
-*Arduino*
-*Sensor de carga*
+Arduino
+Sensor de carga
 
 
 
