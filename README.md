@@ -37,6 +37,7 @@ Com a proposta de ser simples e prático, é fácil se familiarizar com o progra
 
 # Servidor
 
+![json](https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/Json's%20do%20QT.png)
 
 # Informações adicionais
 
