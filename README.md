@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-!(logo)[https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/Pena%20balan%C3%A7a.png]
+![logo](https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/Pena%20balan%C3%A7a.png)
 
 Este projeto foi desenvolvido pelos alunos Luiz Walker e Guilherme Costa, do curso de Engenharia Elétrica do IFPB, para a disciplina de Técnicas de Programação. O projeto consiste em um protótipo de cadastro de produtos ou mercadorias, utilizando um sensor de peso para determinar o valor instantâneo de sua massa. O projeto também possui uma interface gráfica, criada por meio do programa Qt creator, para que se torne mais fácil e prático o cadastro de tais produtos. Além disso, os dados cadastrados podem são obtidos por meio de um sensor conectado a um Arduino, com comunicação serial, e podem ser consultados por meio de um servidor Web.
 
@@ -18,13 +18,13 @@ Para utilizar este programa é bem simples! Vamos lá o manual.
 
 Com a proposta de ser simples e prático, é fácil se familiarizar com o programa: 
 
-!(interface)[https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/Interface%20conex%C3%A3o.png]
+![interface]()
 
 ## Fazendo cadastro
 
-!(cadastro)[]
+![cadastro]()
 
-!(erro)[]
+![erro]()
 
 # Sensor de carga
 
@@ -43,5 +43,3 @@ os dados inseridos de nome da empresa podem ser até duas letra, abreviar o nome
 velocidade de transferência
 57600
 
-!()[]
-!(nomeImagem)[link]
