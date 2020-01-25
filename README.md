@@ -52,7 +52,7 @@ Se houver algum espaço em branco, os dados não serão salvos e aparecerá a se
 
 A parte prática deste projeto se trata de uma maquete que representa o cadastro e pesagem de automóveis em uma pista a fim de simular uma forma de fiscalização.
 
-![maquete]()
+![maquete](https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/maquete.png)
 
 ## Materiais
 
