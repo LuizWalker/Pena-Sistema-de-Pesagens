@@ -26,6 +26,10 @@ Se tudo der certo, o programa irá reconhecer a porta em que o Arduino foi conec
 
 Em seguida, deve-se selecionar no campo "VELOCIDADE DE TRANSFERÊNCIA" o valor de 57600 obrigatoriamente! Pois, o sensor de pressão conectado ao Arduino só funciona nesta velocidade. Pressione o botão conectar ou desconectar para estabeler a conexão.
 
+Quando o sistema estiver pronto para pesagem, aparecerá a seguinte mensagem na caixa de diálogo do Qt:
+
+![json](https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/Json's%20do%20QT.png)
+
 # Fazendo cadastro
 
 Com a proposta de ser simples e prático, é fácil se familiarizar com o cadastro de dados do programa:
@@ -46,22 +50,24 @@ Se houver algum espaço em branco, os dados não serão salvos e aparecerá a se
 
 # Protótipo
 
-Arduino
-Sensor de carga
+A parte prática deste projeto se trata de uma maquete que representa o cadastro e pesagem de automóveis em uma pista a fim de simular uma forma de fiscalização.
 
+![maquete]()
 
+## Materiais
 
-# Comunicação serial
+* Arduino Uno R3
+* Dois sensores de pressão de 50 kg
+* Amplificador HX711
+* Dois LEDs, um verde e outro vermelho
+* Três resistores, um de 10K e dois de 330 ohms
+* Push button
+* Servo motor
 
-## Comunicação Qt
-
-![json](https://github.com/LuizWalker/Pena-Sistema-de-Pesagens/blob/master/imagens%20projeto/Json's%20do%20QT.png)
-
-# Informações adicionais
+# Informações para contato
 
 Luiz Walker Amaro
 luizwalkeramaro@gmail.com
 
 Guilherme Costa de Araújo
 guilhermegca167@gmail.com
-
