@@ -67,10 +67,7 @@ A parte prática deste projeto se trata de uma maquete que representa o cadastro
 # Informações para contato
 
 Luiz Walker Amaro
-
-luizwalkeramaro@gmail.com
-
+-luizwalkeramaro@gmail.com
 
 Guilherme Costa de Araújo
-
-guilhermegca167@gmail.com
+-guilhermegca167@gmail.com
